@@ -14,6 +14,16 @@ A product engineering case study by **Marcus Castro**, built as **MOVA, by EMI**
 
 > **Portfolio showcase only.** The production application's source code lives in a separate private repository. This public repository documents the product, engineering decisions, and implementation experience without exposing credentials, customer information, or proprietary source.
 
+## Explore the case study
+
+| Documentation | Details |
+| --- | --- |
+| [Architecture](docs/architecture.md) | Application layers, tenancy, data protection, and deployment |
+| [Features](docs/features.md) | Implemented product workflows and demo scope |
+| [Engineering decisions](docs/engineering.md) | Challenges, trade-offs, and technical problem-solving |
+| [Roadmap](docs/roadmap.md) | Current capabilities and planned directions |
+| [Screenshots](screenshots/README.md) | Image gallery preparation and publication safety |
+
 ## The product
 
 Freelancers and small creative teams often have to switch between spreadsheets, task boards, calendars, and invoicing tools to understand what is happening across their projects.
@@ -99,7 +109,7 @@ The demo runs in a dedicated Supabase environment and is protected by both HTTP 
 
 ## Screenshots
 
-Screenshots will be added here after a final review to ensure they contain **only fictional data** and no session, infrastructure, or account details.
+[Screenshot gallery preparation](screenshots/README.md). Images will be published after a final review to ensure they contain **only fictional data** and no session, infrastructure, or account details.
 
 ## What I worked on
 
