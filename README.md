@@ -122,7 +122,7 @@ This project demonstrates end-to-end product development across:
 
 ## About
 
-**Marcos Castro** — marketing strategist and web development practitioner focused on creating digital products that connect business strategy, product thinking, and engineering.
+**Marcus Castro** — marketing strategist and web development practitioner focused on creating digital products that connect business strategy, product thinking, and engineering.
 
 **MOVA, by EMI** — *Seus projetos em movimento.*
 
