@@ -6,7 +6,7 @@
 
 **A multi-tenant workspace for managing clients, projects, tasks, calendars, partners, and finances.**
 
-A product engineering case study by **Marcos Castro**, built as **MOVA, by EMI**.
+A product engineering case study by **Marcus Castro**, built as **MOVA, by EMI**.
 
 [Live private demo](https://mova.agenciaemi.com) · [Technical overview](#architecture-at-a-glance) · [Project highlights](#project-highlights)
 
