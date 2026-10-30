@@ -40,15 +40,29 @@ The interface is organized around a consistent sidebar, workspace context, and d
 
 ### Interface walkthrough
 
-**01 — Onboarding and sign-in.** A focused entry screen communicates the core value proposition and offers account creation and sign-in options.
+#### 01 — Sign in
 
-**02 — Workspace dashboard.** Summary cards and a prioritized task list create an operational overview without requiring navigation between modules.
+A focused entry experience that introduces the product and provides clear access to account creation and authentication.
 
-**03 — Project management.** Search, status, client, visibility, and sorting controls support daily project operations.
+![MOVA sign-in screen](screenshots/01-sign-in.webp)
 
-**04 — Calendar.** A month grid makes appointments and deadlines easy to scan, with additional week and list modes.
+#### 02 — Workspace dashboard
 
-> Authentic screenshots of these four views have been captured from the private demonstration and are being prepared for publication after removing identifying session details. See [gallery notes](screenshots/README.md). No image placeholders are embedded here, so the README remains fully functional until the approved files are uploaded.
+An operational overview of active projects, clients, pending tasks, overdue work, upcoming events, and quick actions.
+
+![MOVA workspace dashboard](screenshots/02-dashboard.webp)
+
+#### 03 — Project management
+
+A structured workspace for managing projects, with search, client filters, status tracking, deadlines, and multiple views.
+
+![MOVA project management interface](screenshots/03-projects.webp)
+
+#### 04 — Calendar
+
+A calendar experience designed to organize meetings, events, and deadlines, with month, week, and list views.
+
+![MOVA calendar interface](screenshots/04-calendar.webp)
 
 ## Design decisions
 
